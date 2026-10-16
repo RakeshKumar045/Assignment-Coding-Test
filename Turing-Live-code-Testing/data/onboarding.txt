@@ -1,0 +1,11 @@
+Getting Started
+
+New workspaces start on a 14 day trial with full access to every feature. During the trial,
+no credit card is required and the workspace can invite up to 5 teammates.
+
+To connect your first data source, open the Integrations tab and choose a provider. Most
+integrations finish syncing within a few minutes, though large datasets can take up to an
+hour on the first sync. A progress indicator on the dashboard shows sync status.
+
+Workspace owners can rename the workspace, change the timezone, and set a default language
+from the workspace settings page at any point after signup.

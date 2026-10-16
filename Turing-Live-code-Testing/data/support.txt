@@ -1,0 +1,12 @@
+Contacting Support
+
+Support is available by email around the clock, with a first response inside one business
+day for standard plans and inside four hours for enterprise plans. Live chat is available
+on weekdays from 9am to 6pm in the customer's local timezone.
+
+Our refund policy allows a full refund within 14 days of purchase if the customer has not
+exceeded 100 API calls. After the 14 day window, refunds are issued as account credit
+instead of cash, and that credit can be applied to any future invoice.
+
+Bug reports should include the workspace ID, a timestamp, and steps to reproduce. Reports
+missing a timestamp are frequently unable to be triaged and are sent back to the reporter.

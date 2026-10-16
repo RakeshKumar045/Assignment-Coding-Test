@@ -1,0 +1,12 @@
+Security and Access Control
+
+All data is encrypted at rest with AES-256 and in transit with TLS 1.2 or higher. Access to
+production databases is restricted to on-call engineers and logged in an audit trail that is
+retained for one year.
+
+Workspace admins can enable single sign-on (SSO) using SAML or OAuth. Once SSO is enforced,
+password-based login is disabled for every member of the workspace except the workspace
+owner, who always retains a password-based fallback.
+
+Two-factor authentication can be enabled from account settings and is required for any
+account with billing admin permissions.
